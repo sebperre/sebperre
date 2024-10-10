@@ -3,7 +3,9 @@
 **Here are a few facts about me:**
 
 I'm a software developer
+
 I currently study at the University of Victoria and am pursuing an Honours Computer Science and Mathematics Degree
+
 I'm in my 4th year
 
 **My interests:**
