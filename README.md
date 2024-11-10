@@ -6,11 +6,13 @@
 
 - I currently study at the University of Victoria and am pursuing an Honours Computer Science and Mathematics Degree
 
+- CFA Level 1 Candidate
+
 - I'm in my 4th year
 
 **My interests:**
 
-= AI and Machine Learning :robot:
+- AI and Machine Learning :robot:
 
 - Finance :chart:
 
@@ -23,17 +25,8 @@
   <img align="center" height="175" alt="Sebastien's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebperre&layout=compact&theme=github_dark" />
 </div>
 
-<!--
-**sebperre/sebperre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Socials
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastienperre/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sebperre/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sebastienperre.org/)
