@@ -16,6 +16,8 @@ Finance :chart:
 
 Mathematics :infinity:
 
+### :bar_chart: [Coding time in the last month](https://github.com/sebperre)
+
 <!--
 **sebperre/sebperre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
