@@ -24,6 +24,9 @@ You can view these and more below or visit my [website](https://sebastienperre.o
 - **Career Development:** Focused on getting a job in Software Development or Finance and hopefully both.
 - **Continuous Learning:** Always learning new technologies to leverage my skills in the Tech Industry. Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
+## Awards 🥇
+- **2023-2024 Dean's List Student**: Got on the Dean's list for the 2023-2024 year for having a top 10% GPA in the faculty of Science.
+
 ## Connect with Me and Socials 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastienperre/)
