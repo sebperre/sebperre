@@ -8,6 +8,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 - **Frameworks & Libraries:** React, Node.js
 - **Tools & Platforms:** GitHub, Docker, OpenAI, VIM
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
+- **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
 ## Key Projects 📚
 - **[Music Genre Detector](https://github.com/sebperre/genre_classifier):** A machine learning project which detects music genre base on lyrics.
