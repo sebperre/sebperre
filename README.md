@@ -6,7 +6,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, C, HTML, CSS, R, Bash
 - **Frameworks & Libraries:** React, Node.js
-- **Tools & Platforms:** GitHub, Docker, OpenAI
+- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
 
 ## Key Projects 📚
