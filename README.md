@@ -11,6 +11,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 - **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
 ## Key Projects 📚
+- **[Realtime Messanger](https://github.com/sebperre/realtime-messaging):** A realtime messanging webapp which uses websockets to communicate with two frontend instances.
 - **[Music Genre Detector](https://github.com/sebperre/genre_classifier):** A machine learning project which detects music genre base on lyrics.
 - **[Wordle Clone](https://github.com/sebperre/wordle-clone):** A clone of the game Wordle praticing my HTML, CSS and JavaScript skills.
 - **[URL Shortner](https://github.com/sebperre/url-shortner):** A URL shortner which shortens URLs which has a fully working frontend and backend which communicate with each other.
