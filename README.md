@@ -12,7 +12,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 
 ## Key Projects 📚
 - **[Music Genre Detector](https://github.com/sebperre/genre_classifier):** A machine learning project which detects music genre base on lyrics.
-- **[Wordle Clone](https://github.com/Vets-Who-Code/web-curriculum):** A clone of the game Wordle praticing my HTML, CSS and JavaScript skills.
+- **[Wordle Clone](https://github.com/sebperre/wordle-clone):** A clone of the game Wordle praticing my HTML, CSS and JavaScript skills.
 - **[URL Shortner](https://github.com/sebperre/url-shortner):** A URL shortner which shortens URLs which has a fully working frontend and backend which communicate with each other.
 - **[Auto File Sorter](https://github.com/sebperre/auto-file-sorter):** A bash script which sorts your files by extension.
 
