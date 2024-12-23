@@ -14,7 +14,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 - **[Realtime Messanger](https://github.com/sebperre/realtime-messaging):** A realtime messanging webapp which uses websockets to communicate with two frontend instances.
 - **[Music Genre Detector](https://github.com/sebperre/genre_classifier):** A machine learning project which detects music genre base on lyrics.
 - **[Wordle Clone](https://github.com/sebperre/wordle-clone):** A clone of the game Wordle praticing my HTML, CSS and JavaScript skills.
-- **[URL Shortner](https://github.com/sebperre/url-shortner):** A URL shortner which shortens URLs which has a fully working frontend and backend which communicate with each other.
+- **[URL Shortener](https://github.com/sebperre/url-shortener):** A URL shortener which shortens URLs which has a fully working frontend and backend which communicate with each other.
 - **[Auto File Sorter](https://github.com/sebperre/auto-file-sorter):** A bash script which sorts your files by extension.
 
 You can view these and more below or visit my [website](https://sebastienperre.org/)
