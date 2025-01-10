@@ -6,7 +6,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash
 - **Frameworks & Libraries:** React, Node.js, PyTorch, scikit-learn, Selenium, pandas, Next.js
-- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM
+- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
 - **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
@@ -28,6 +28,7 @@ You can view these and more below or visit my [website](https://sebastienperre.o
 
 ## Awards 🥇
 - **2023-2024 Dean's List Student**: Got on the Dean's list for the 2023-2024 year for having a top 10% GPA in the faculty of Science.
+- **2020 UVic Entrance Scholarship**: Got a $3000 entrance scholarship for the University of Victoria.
 
 ## Connect with Me and Socials 📬
 
