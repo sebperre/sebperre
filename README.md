@@ -24,7 +24,7 @@ You can view these and more below or visit my [website](https://sebastienperre.o
 ## Competitions 🥇
 - **[Advent of Code 2024](https://github.com/sebperre/advent-of-code-2024):** Completed all 50 stars for advent of code in Python. I had lots of fun and learnt many problem solving techniques along the way.
 - **[UVEC Programming Competition 2024](https://github.com/cowpod/maff):** My three teammates and I spent 6 hours creating a math game to help educate children. We created a fully fledge frontend and backend, created documentation, implemented leaderboards and presented a slideshow.
-- **[Ultimate Tic Tac Toe Competition 2024]:** In a four-person team and an exciting six-hour session we developed a min-max algorithm with alpha-beta pruning AI for Ultimate Tic Tac which competed against other teams AI. We collaborated closely, debugging and building a competitive bot. After the competition, I found and fixed several bugs, further improving the bot's performance to make it better.                   
+- **Ultimate Tic Tac Toe Competition 2024:** In a four-person team and an exciting six-hour session we developed a min-max algorithm with alpha-beta pruning AI for Ultimate Tic Tac which competed against other teams AI. We collaborated closely, debugging and building a competitive bot. After the competition, I found and fixed several bugs, further improving the bot's performance to make it better.                   
 
 ## Volunteering and Research 🧪
 - **Research Volunteer Position:** I volunteered to help a student and professor in their machine learning research. Read a bunch of research papers, wrote code, researched the biases of popular LLMs such as ChatGPT.
