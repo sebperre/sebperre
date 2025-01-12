@@ -6,12 +6,13 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash
 - **Frameworks & Libraries:** React, Node.js, PyTorch, scikit-learn, Selenium, pandas, Next.js
-- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare
+- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare, FireBase
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
 - **Miscellaneous:** Microsoft Word, Excel, Powerpoint, Atlassian Trello, Sharepoint
 - **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
 ## Key Projects 📚
+- **[ScrabbleTastic](https://github.com/TalentedB/ScrabbleTastic):** A fun web version of Scrabble with a twist. Currently working on implementing the signin page with Auth, setting up the backend to host various games.
 - **[Realtime Messanger](https://github.com/sebperre/realtime-messaging):** A realtime messanging webapp which uses websockets to communicate with two frontend instances.
 - **[Music Genre Detector](https://github.com/sebperre/genre_classifier):** A machine learning project which detects music genre base on lyrics.
 - **[Wordle Clone](https://github.com/sebperre/wordle-clone):** A clone of the game Wordle praticing my HTML, CSS and JavaScript skills.
@@ -19,6 +20,11 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 - **[Auto File Sorter](https://github.com/sebperre/auto-file-sorter):** A bash script which sorts your files by extension.
 
 You can view these and more below or visit my [website](https://sebastienperre.org/)
+
+## Competitions 🥇
+- **[Advent of Code 2024](https://github.com/sebperre/advent-of-code-2024):** Completed all 50 stars for advent of code in Python. I had lots of fun and learnt many problem solving techniques along the way.
+- **[UVEC Programming Competition 2024](https://github.com/cowpod/maff):** My three teammates and I spent 6 hours creating a math game to help educate children. We created a fully fledge frontend and backend, created documentation, implemented leaderboards and presented a slideshow.
+- **[Ultimate Tic Tac Toe Competition 2024]:** In a four-person team and an exciting six-hour session we developed a min-max algorithm with alpha-beta pruning AI for Ultimate Tic Tac which competed against other teams AI. We collaborated closely, debugging and building a competitive bot. After the competition, I found and fixed several bugs, further improving the bot's performance to make it better.                   
 
 ## Volunteering and Research 🧪
 - **Research Volunteer Position:** I volunteered to help a student and professor in their machine learning research. Read a bunch of research papers, wrote code, researched the biases of popular LLMs such as ChatGPT.
