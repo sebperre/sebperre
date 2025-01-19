@@ -34,8 +34,8 @@ You can view these and more below or visit my [website](https://sebastienperre.o
 - **Continuous Learning:** Always learning new technologies to leverage my skills in the Tech Industry. Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
 
 ## Awards 🥇
-- **2023-2024 Dean's List Student**: Got on the Dean's list for the 2023-2024 year for having a top 10% GPA in the faculty of Science.
-- **2020 UVic Entrance Scholarship**: Got a $3000 entrance scholarship for the University of Victoria.
+- **2023-2024 Dean's List Student**: Dean's list for the 2023-2024 year for having a top 10% GPA in the faculty of Science.
+- **2020 UVic Entrance Scholarship**: $3000 entrance scholarship for the University of Victoria.
 
 ## Connect with Me and Socials 📬
 
