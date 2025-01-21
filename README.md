@@ -27,7 +27,7 @@ You can view these and more below or visit my [website](https://sebastienperre.o
 - **Ultimate Tic Tac Toe Competition 2024:** In a four-person team and an exciting six-hour session we developed a min-max algorithm with alpha-beta pruning AI for Ultimate Tic Tac which competed against other teams AI. We collaborated closely, debugging and building a competitive bot. After the competition, I found and fixed several bugs, further improving the bot's performance to make it better.                   
 
 ## Volunteering and Research 🧪
-- **Research Volunteer Position:** I volunteered to help a student and professor in their machine learning research. Read a bunch of research papers, wrote code, researched the biases of popular LLMs such as ChatGPT.
+- **Research Volunteer Position:** Primary focus was on detecting bias in LLMs. Used ChatGPT's API, Cohere API, BGE M3's Flag Model, and Microsoft E5 to gather LLM embeddings to perform analysis on. Used the top 100k words in the English language to perform analysis on the bias of these words using SC-WEATs primarily on gender and race. Calculated an effect size to see how prevalent the bias is in these words. Used big tech words to see how they correlate between gender and expanded functions to take different types of words and categories. Generated various charts (effect size, lexicons, etc.) and graphs (t-SNEs, frequency bar charts, clustering charts, etc.) denoting bias such as effect size. 
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on getting a job in Software Development or Finance and hopefully both.
