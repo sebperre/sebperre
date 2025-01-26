@@ -1,7 +1,7 @@
 Hi there, I'm Sebastien Perre 👋. I’m a student at the Univesity of Victoria studying Mathematics and Computer Science 🎖️ and a future software developer focused on harnessing technology to make significant impacts in the finance and tech industry.
 
 ## About Me 👨‍💻
-With my Computer Science and Mathematics schooling, working on multiple side projects and pursuing my CFA charterholder I plan to be a valuable asset to the financial technology sector. Furthermore, I have passion which lies in multiple technologies such as Node, Python, Javascript, React and plenty more. My future goal is to be a software developer at FAANG or a major fianancial firm.
+With my Computer Science and Mathematics schooling, working on multiple side projects and pursuing my CFA charterholder I plan to be a valuable asset to the financial technology sector. Furthermore, I have passion which lies in multiple technologies such as Node, Python, Javascript, React and plenty more. My future goal is to be a software developer at FAANG or a major financial firm.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash, SQL
