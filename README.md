@@ -6,7 +6,7 @@ With my Computer Science and Mathematics schooling, working on multiple side pro
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash, SQL
 - **Frameworks & Libraries:** React, Node.js, PyTorch, scikit-learn, Selenium, pandas, Next.js
-- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare, FireBase
+- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare, FireBase, Apache Kafka
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
 - **Miscellaneous:** Microsoft Word, Excel, Powerpoint, Atlassian Trello, Sharepoint
 - **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
