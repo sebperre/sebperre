@@ -4,9 +4,9 @@ Hi there, I'm Sebastien Perre 👋. I’m a student at the Univesity of Victoria
 With my Computer Science and Mathematics schooling, working on multiple side projects and pursuing my CFA charterholder I plan to be a valuable asset to the financial technology sector. Furthermore, I have passion which lies in multiple technologies such as Node, Python, JavaScript, React and plenty more. My future goal is to be a software developer at FAANG or a major financial firm.
 
 ## Technical Skills 🛠️
-- **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash, SQL
+- **Languages:** JavaScript, Python, C, C++, Go, HTML, CSS, R, Bash, SQL, DAX
 - **Frameworks & Libraries:** React, Node.js, PyTorch, scikit-learn, Selenium, pandas, Next.js
-- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare, FireBase, Apache Kafka
+- **Tools & Platforms:** GitHub, Docker, OpenAI, VIM, AWS (S3, CloudFront, Lambda), Cloudflare, FireBase, Apache Kafka, Power BI
 - **AI and Machine Learning:** Proficient in machine learning concepts and data analysis
 - **Miscellaneous:** Microsoft Word, Excel, Powerpoint, Atlassian Trello, Sharepoint
 - **Certificates and More:** Click [here](https://github.com/sebperre/continuous-learning) to view some certificates I have and what I'm currently learning.
